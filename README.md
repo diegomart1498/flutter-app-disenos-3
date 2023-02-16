@@ -1,6 +1,6 @@
 # shoes_app
 
-A new Flutter project.
+Aplicación móvil como demostración de trabajo con diseños de interfaz de usuario y animaciones de una tienda de zapatos. Desarrollada con Flutter.
 
 ## Getting Started
 
